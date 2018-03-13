@@ -1,0 +1,160 @@
+# depslib dependency file v1.0
+1481045806 source:d:\kuliah\semester 3\algoritma dan struktur data (asd)\tubes 2016 vinachlau\datajurusandanmahasiswa\linkedlist.cpp
+	<iostream>
+	"LinkedList.h"
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1481072370 d:\kuliah\semester 3\algoritma dan struktur data (asd)\tubes 2016 vinachlau\datajurusandanmahasiswa\linkedlist.h
+	<iostream>
+
+1481072545 source:d:\kuliah\semester 3\algoritma dan struktur data (asd)\tubes 2016 vinachlau\datajurusandanmahasiswa\main.cpp
+	<iostream>
+	"LinkedList.h"
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1481072545 source:d:\kuliah\semester 3\algoritma dan struktur data (asd)\tubes 2016 vinachlau\datajurusandanmahasiswa\additional.cpp
+	<iostream>
+	"LinkedList.h"
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1481072370 source:d:\kuliah\semester 3\algoritma dan struktur data (asd)\tubes 2016 vinachlau\datajurusandanmahasiswa\menu.cpp
+	<iostream>
+	"LinkedList.h"
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1480573853 source:d:\kuliah\semester 3\algoritma dan struktur data (asd)\tubes 2016 vinachlau\datajurusandanmahasiswa\linkedlist.h
+	<iostream>
+
+1481045040 source:e:\asd\tubes\datajurusandanmahasiswa\additional.cpp
+	<iostream>
+	"LinkedList.h"
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1481045040 e:\asd\tubes\datajurusandanmahasiswa\linkedlist.h
+	<iostream>
+
+1481045672 source:e:\asd\tubes\datajurusandanmahasiswa\linkedlist.cpp
+	<iostream>
+	"LinkedList.h"
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1480993729 source:e:\asd\tubes\datajurusandanmahasiswa\main.cpp
+	<iostream>
+	"LinkedList.h"
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1481045452 source:e:\asd\tubes\datajurusandanmahasiswa\menu.cpp
+	<iostream>
+	"LinkedList.h"
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1481045806 source:c:\users\asus\downloads\datajurusandanmahasiswa\linkedlist.cpp
+	<iostream>
+	"LinkedList.h"
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1481072370 c:\users\asus\downloads\datajurusandanmahasiswa\linkedlist.h
+	<iostream>
+
+1481072545 source:c:\users\asus\downloads\datajurusandanmahasiswa\main.cpp
+	<iostream>
+	"LinkedList.h"
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1481072545 source:c:\users\asus\downloads\datajurusandanmahasiswa\additional.cpp
+	<iostream>
+	"LinkedList.h"
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1481072370 source:c:\users\asus\downloads\datajurusandanmahasiswa\menu.cpp
+	<iostream>
+	"LinkedList.h"
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1481072545 source:e:\vina\kuliah\semester 3\algoritma dan struktur data (asd)\tubes 2016 vinachlau\datajurusandanmahasiswa\additional.cpp
+	<iostream>
+	"LinkedList.h"
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1481072370 e:\vina\kuliah\semester 3\algoritma dan struktur data (asd)\tubes 2016 vinachlau\datajurusandanmahasiswa\linkedlist.h
+	<iostream>
+
+1481045806 source:e:\vina\kuliah\semester 3\algoritma dan struktur data (asd)\tubes 2016 vinachlau\datajurusandanmahasiswa\linkedlist.cpp
+	<iostream>
+	"LinkedList.h"
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1481072545 source:e:\vina\kuliah\semester 3\algoritma dan struktur data (asd)\tubes 2016 vinachlau\datajurusandanmahasiswa\main.cpp
+	<iostream>
+	"LinkedList.h"
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1481072370 source:e:\vina\kuliah\semester 3\algoritma dan struktur data (asd)\tubes 2016 vinachlau\datajurusandanmahasiswa\menu.cpp
+	<iostream>
+	"LinkedList.h"
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
